@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "$string" | tr A z | tr c e
