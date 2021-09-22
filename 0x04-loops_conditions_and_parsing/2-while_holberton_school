@@ -3,6 +3,6 @@
 i=0
 while (( $i < 10 ))
 do
-	echo "Holberton School"
+	echo "Holberton School $i time"
 	(($i++))
 done
