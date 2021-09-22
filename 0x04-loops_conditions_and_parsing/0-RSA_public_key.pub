@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# ssh public key
+ssh-rsa 2048 SHA256:G6svdaCrkcS6l7e5UuuAKsTsLQdrxLeO1bYd+bTvGiw
